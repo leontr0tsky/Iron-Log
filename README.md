@@ -2,9 +2,9 @@
 
 A premium strength training tracker built for powerlifters, bodybuilders, and serious gym-goers. Fast, data-driven workout logging focused on progressive overload.
 
-**[Live Demo →](https://yourusername.github.io/ironlog/IronLog.html)**
+**[Live Demo →]**https://leontr0tsky.github.io/Iron-Log/**
 
-![IronLog Dashboard](https://via.placeholder.com/800x450/111111/e8ff47?text=IronLog)
+
 
 ---
 
@@ -68,13 +68,13 @@ A premium strength training tracker built for powerlifters, bodybuilders, and se
 ## Running Locally
 
 ```bash
-git clone https://github.com/yourusername/ironlog.git
+git clone https://github.com/leontr0tsky/ironlog.git
 cd ironlog
 npm install
 npm start
 ```
 
-Or just open `IronLog.html` directly in your browser — no build step needed.
+
 
 ---
 
